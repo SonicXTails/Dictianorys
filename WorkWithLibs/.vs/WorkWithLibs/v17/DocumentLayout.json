@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FFFDC-0C1D-453E-BD70-D6BC2E266247}|WorkWithLibs\\WorkWithLibs.csproj|c:\\users\\sonicxtails\\desktop\\dictianorys\\workwithlibs\\workwithlibs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF0FFFDC-0C1D-453E-BD70-D6BC2E266247}|WorkWithLibs\\WorkWithLibs.csproj|solutionrelative:workwithlibs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FFFDC-0C1D-453E-BD70-D6BC2E266247}|WorkWithLibs\\WorkWithLibs.csproj|c:\\users\\sonicxtails\\desktop\\dictianorys\\workwithlibs\\workwithlibs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0FFFDC-0C1D-453E-BD70-D6BC2E266247}|WorkWithLibs\\WorkWithLibs.csproj|solutionrelative:workwithlibs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FFFDC-0C1D-453E-BD70-D6BC2E266247}|WorkWithLibs\\WorkWithLibs.csproj|c:\\users\\sonicxtails\\desktop\\dictianorys\\workwithlibs\\workwithlibs\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF0FFFDC-0C1D-453E-BD70-D6BC2E266247}|WorkWithLibs\\WorkWithLibs.csproj|solutionrelative:workwithlibs\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C056980E-1CFB-4274-AF88-CF17228EAB7C}|ThemesLib\\ThemesLib.csproj|c:\\users\\sonicxtails\\desktop\\dictianorys\\workwithlibs\\themeslib\\themes\\ruby.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C056980E-1CFB-4274-AF88-CF17228EAB7C}|ThemesLib\\ThemesLib.csproj|solutionrelative:themeslib\\themes\\ruby.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C056980E-1CFB-4274-AF88-CF17228EAB7C}|ThemesLib\\ThemesLib.csproj|c:\\users\\sonicxtails\\desktop\\dictianorys\\workwithlibs\\themeslib\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C056980E-1CFB-4274-AF88-CF17228EAB7C}|ThemesLib\\ThemesLib.csproj|solutionrelative:themeslib\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C056980E-1CFB-4274-AF88-CF17228EAB7C}|ThemesLib\\ThemesLib.csproj|c:\\users\\sonicxtails\\desktop\\dictianorys\\workwithlibs\\themeslib\\themes\\dark.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C056980E-1CFB-4274-AF88-CF17228EAB7C}|ThemesLib\\ThemesLib.csproj|solutionrelative:themeslib\\themes\\dark.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\WorkWithLibs\\App.xaml",
+              "RelativeDocumentMoniker": "WorkWithLibs\\App.xaml",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\WorkWithLibs\\App.xaml",
+              "RelativeToolTip": "WorkWithLibs\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T07:38:17.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ruby.xaml",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\ThemesLib\\Themes\\Ruby.xaml",
+              "RelativeDocumentMoniker": "ThemesLib\\Themes\\Ruby.xaml",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\ThemesLib\\Themes\\Ruby.xaml",
+              "RelativeToolTip": "ThemesLib\\Themes\\Ruby.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T07:41:49.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\ThemesLib\\Themes\\Light.xaml",
+              "RelativeDocumentMoniker": "ThemesLib\\Themes\\Light.xaml",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\ThemesLib\\Themes\\Light.xaml",
+              "RelativeToolTip": "ThemesLib\\Themes\\Light.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T07:41:47.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dark.xaml",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\ThemesLib\\Themes\\Dark.xaml",
+              "RelativeDocumentMoniker": "ThemesLib\\Themes\\Dark.xaml",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\ThemesLib\\Themes\\Dark.xaml",
+              "RelativeToolTip": "ThemesLib\\Themes\\Dark.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T07:41:46.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\WorkWithLibs\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WorkWithLibs\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\WorkWithLibs\\MainWindow.xaml",
+              "RelativeToolTip": "WorkWithLibs\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T07:35:06.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\WorkWithLibs\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WorkWithLibs\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Dictianorys\\WorkWithLibs\\WorkWithLibs\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WorkWithLibs\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:35:09.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

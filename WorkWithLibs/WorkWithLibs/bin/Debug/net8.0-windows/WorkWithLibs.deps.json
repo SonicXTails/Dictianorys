@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WorkWithLibs/1.0.0": {
+        "dependencies": {
+          "Converter": "1.0.0",
+          "ThemesLib": "1.0.0"
+        },
+        "runtime": {
+          "WorkWithLibs.dll": {}
+        }
+      },
+      "Converter/1.0.0": {
+        "runtime": {
+          "Converter.dll": {}
+        }
+      },
+      "ThemesLib/1.0.0": {
+        "runtime": {
+          "ThemesLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkWithLibs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Converter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThemesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

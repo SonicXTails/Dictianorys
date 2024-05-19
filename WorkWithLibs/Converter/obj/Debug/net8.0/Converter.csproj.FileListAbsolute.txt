@@ -1,0 +1,11 @@
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\bin\Debug\net8.0\Converter.deps.json
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\bin\Debug\net8.0\Converter.dll
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\bin\Debug\net8.0\Converter.pdb
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\obj\Debug\net8.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\obj\Debug\net8.0\Converter.AssemblyInfoInputs.cache
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\obj\Debug\net8.0\Converter.AssemblyInfo.cs
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\obj\Debug\net8.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\obj\Debug\net8.0\Converter.dll
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\obj\Debug\net8.0\refint\Converter.dll
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\obj\Debug\net8.0\Converter.pdb
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\Converter\obj\Debug\net8.0\ref\Converter.dll

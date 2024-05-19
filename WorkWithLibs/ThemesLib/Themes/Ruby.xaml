@@ -1,0 +1,27 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Ruby Button Style -->
+    <Style x:Key="RubyButtonStyle" TargetType="Button">
+        <Setter Property="Background" Value="Crimson"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="BorderBrush" Value="White"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="Padding" Value="10"/>
+    </Style>
+
+    <!-- Ruby TextBox Style -->
+    <Style x:Key="RubyTextBoxStyle" TargetType="TextBox">
+        <Setter Property="Background" Value="Crimson"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="BorderBrush" Value="White"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="Padding" Value="5"/>
+    </Style>
+
+    <!-- Ruby Background Style -->
+    <Style x:Key="RubyBackgroundStyle" TargetType="Grid">
+        <Setter Property="Background" Value="DarkRed"/>
+    </Style>
+
+</ResourceDictionary>

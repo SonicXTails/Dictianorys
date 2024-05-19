@@ -1,0 +1,16 @@
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\ThemesLib_MarkupCompile.cache
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\bin\Debug\net8.0-windows\ThemesLib.deps.json
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\bin\Debug\net8.0-windows\ThemesLib.dll
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\bin\Debug\net8.0-windows\ThemesLib.pdb
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\Themes\Dark.baml
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\Themes\Light.baml
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\Themes\Ruby.baml
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\ThemesLib.g.resources
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\ThemesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\ThemesLib.AssemblyInfoInputs.cache
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\ThemesLib.AssemblyInfo.cs
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\ThemesLib.csproj.CoreCompileInputs.cache
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\ThemesLib.dll
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\refint\ThemesLib.dll
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\ThemesLib.pdb
+C:\Users\SonicXTails\Desktop\Dictianorys\WorkWithLibs\ThemesLib\obj\Debug\net8.0-windows\ref\ThemesLib.dll
